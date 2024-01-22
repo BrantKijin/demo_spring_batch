@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/talk
+    username: postgres
+    password: aegisep1234@
+    driver-class-name: org.postgresql.Driver
+  batch:
+    job:
+      enabled: false # 시작시 자동 잡실행
+    jdbc:
+      initialize-schema: never # 스키마 자동생성 
+server:
+  port: 9999
