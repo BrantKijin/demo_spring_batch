@@ -7,10 +7,10 @@
 
 | 데이터베이스 |  포트   | ID | 비밀번호 |
 |---|------|---|---|
-| XPRODB | 5432 | postgres | aegisep1234@ |
+| talk | 5432 | postgres | aegisep1234@ |
 
 
-## 2. API TEST
+## 2. batch api TEST
  
 
 ````
