@@ -3,7 +3,7 @@
 ## 1. 개발환경
 * JAVA 21 , spring boot 3.2.x
 * 터미널로 프로젝트 상위 폴더 infra 폴더로 진입 docker-compose up 명령어로 로컬 DB 설치
-* 접속정보 오라클 DB 대신 postgres 로 대체 
+* DB는 postgresql 로 올린다.
 
 | 데이터베이스 |  포트   | ID | 비밀번호 |
 |---|------|---|---|
